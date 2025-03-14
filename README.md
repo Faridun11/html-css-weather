@@ -10,10 +10,10 @@ Bu loyiha oddiy HTML, CSS va JavaScript yordamida yaratilgan ob-havo ilovasi his
 - 🎨 Chiroyli va minimalistik UI dizayn
 
 ### 📱 Mobil versiya:
-![Mobil versiya](https://your-image-link.com/mobile.png)
+![Mobil versiya](phone.png)
 
 ### 💻 Kompyuter versiyasi:
-![Kompyuter versiyasi](https://your-image-link.com/desktop.png)
+![Kompyuter versiyasi](deskop.png)
 
 ## 🚀 Texnologiyalar
 - 🏗 HTML
