@@ -1,29 +1,28 @@
 # 🌤️Weather App
 
-Bu loyiha oddiy HTML, CSS va JavaScript yordamida yaratilgan ob-havo ilovasi hisoblanadi. U foydalanuvchilarga real vaqtda ob-havo ma'lumotlarini taqdim etadi. ☀️🌧️
+This project is a weather app built using simple HTML, CSS, and JavaScript. It provides users with real-time weather information. ☀️🌧️
 
-## 📌 Xususiyatlar
-- 🔍 Shahar nomi bo‘yicha ob-havo ma’lumotlarini qidirish
-- 🌤 Ob-havo holatini grafik shaklda ko‘rsatish
-- 🌡 Harorat, shamol tezligi va namlikni aks ettirish
-- 📱 Mobil qurilmalarga moslashtirilgan dizayn
-- 🎨 Chiroyli va minimalistik UI dizayn
+## 📌 Features
+- 🔍 Search for weather information by city name
+- 🌤 Show weather conditions in a graphical form
+- 🌡 Display temperature, wind speed, and humidity
+- 📱 Mobile-friendly design
+- 🎨 Beautiful and minimalistic UI design
 
-### 📱 Mobil versiya:
-![Mobil versiya](phone.png)
+### 📱 Mobile version:
+![Mobile version](phone.png)
 
-### 💻 Kompyuter versiyasi:
-![Kompyuter versiyasi](deskop.png)
+### 💻 Desktop version:
+![Desktop version](deskop.png)
 
-## 🚀 Texnologiyalar
+## 🚀 Technologies
 - 🏗 HTML
 - 🎨 CSS
 - 🚀 JavaScript
 
-## 💡 Foydalanish
-1. 🔎 Qidiruv maydoniga shahar nomini kiriting.
-2. ▶️ "Search" tugmasini bosing.
-3. 📊 Ob-havo ma’lumotlari ekranda aks etadi.
+## 💡 Usage
+1. 🔎 Enter the city name in the search field.
+2. ▶️ Click the "Search" button.
+3. 📊 The weather information will be displayed on the screen.
 ---
-Agar sizga loyiha yoqsa, ⭐ berishni unutmang! 🚀
-
+If you like the project, don't forget to give it a ⭐! 🚀
